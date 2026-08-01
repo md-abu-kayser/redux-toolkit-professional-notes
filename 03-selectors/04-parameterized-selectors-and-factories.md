@@ -1,21 +1,5 @@
-# Parameterized selectors and factories
+# Parameterized Selectors
 
-> Section: 03-selectors
+Create selector factories: `const makeSelectTodoById = () => createSelector(...)`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [createSlice Selectors](05-createslice-selectors.md)

@@ -1,21 +1,5 @@
-# Composed selectors and reselect
+# Composed Selectors
 
-> Section: 03-selectors
+Combine multiple selectors to build complex derived data.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Derived Data & Filtering Patterns](03-derived-data-and-filtering-patterns.md)

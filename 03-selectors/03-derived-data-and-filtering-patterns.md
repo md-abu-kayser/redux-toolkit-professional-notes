@@ -1,21 +1,5 @@
-# Derived data and filtering patterns
+# Derived Data & Filtering
 
-> Section: 03-selectors
+Use selectors to filter, sort, or compute data without storing redundant state.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Parameterized Selectors & Factories](04-parameterized-selectors-and-factories.md)
