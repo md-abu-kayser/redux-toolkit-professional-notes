@@ -1,10 +1,15 @@
-## Summary
+## Description
 
-Briefly describe what this PR changes.
+Fixes # (issue)
+
+## Type of change
+
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Code refactor
 
 ## Checklist
 
-- [ ] Follows existing file naming convention
-- [ ] Markdown renders correctly
-- [ ] Code examples are tested/valid
-- [ ] Links checked
+- [ ] My code follows style guidelines
+- [ ] I have performed a self-review
