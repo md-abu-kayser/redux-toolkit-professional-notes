@@ -1,21 +1,5 @@
-# Preparing payloads with prepare callbacks
+# Prepare Callbacks
 
-> Section: 02-slices-and-reducers
+Customize action payload: `addTodo: { reducer(state, action) {...}, prepare(text) { return { payload: { id: nanoid(), text } } } }`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Initializing State & Resetting](05-initializing-state-and-resetting.md)

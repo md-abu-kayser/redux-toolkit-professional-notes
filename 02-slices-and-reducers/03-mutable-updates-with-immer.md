@@ -1,21 +1,5 @@
-# Mutable updates with immer
+# Mutable Updates with Immer
 
-> Section: 02-slices-and-reducers
+Write reducers that "mutate" state directly; Immer converts them to safe immutable updates.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Preparing Payloads with Prepare Callbacks](04-preparing-payloads-with-prepare-callbacks.md)
