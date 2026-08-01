@@ -1,21 +1,5 @@
-# Flux and redux patterns
+# Flux & Redux Patterns
 
-> Section: 00-prerequisites
+Unidirectional data flow, actions, dispatcher, store. Redux Toolkit abstracts classic Redux patterns.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Immutability & Immer](04-immutability-and-immer.md)

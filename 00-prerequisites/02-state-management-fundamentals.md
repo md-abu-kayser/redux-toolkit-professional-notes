@@ -1,21 +1,5 @@
-# State management fundamentals
+# State Management Fundamentals
 
-> Section: 00-prerequisites
+Local vs global state, prop drilling, lifting state. Redux provides a predictable global state container.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Flux & Redux Patterns](03-flux-and-redux-patterns.md)

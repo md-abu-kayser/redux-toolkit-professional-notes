@@ -1,21 +1,5 @@
-# Immutability and immer
+# Immutability & Immer
 
-> Section: 00-prerequisites
+Redux requires immutable updates. RTK uses Immer to allow "mutative" syntax in reducers while producing immutable state.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [TypeScript Overview (if needed)](05-typescript-overview-if-needed.md)
