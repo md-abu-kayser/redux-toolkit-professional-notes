@@ -1,21 +1,5 @@
-# Using createreducer for non slice reducers
+# createReducer
 
-> Section: 02-slices-and-reducers
+`createReducer` with builder callback for cases that don't fit a slice (e.g., cross‑slice handling).
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **03-selectors** – [Basic Selectors & createSelector](../03-selectors/01-basic-selectors-and-memoization-with-createselector.md)

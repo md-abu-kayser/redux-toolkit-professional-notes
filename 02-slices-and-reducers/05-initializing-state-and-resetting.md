@@ -1,21 +1,5 @@
-# Initializing state and resetting
+# Initializing State & Resetting
 
-> Section: 02-slices-and-reducers
+Set initial state, add a reset reducer that returns `initialState`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Using createReducer for Non‑Slice Reducers](06-using-createreducer-for-non-slice-reducers.md)
