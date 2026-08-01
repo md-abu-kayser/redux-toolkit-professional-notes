@@ -1,21 +1,5 @@
-# Authentication and refreshing tokens
+# Authentication & Token Refresh
 
-> Section: 05-rtk-query
+Use `baseQuery` with re‑auth logic; automatically retry failed requests after token refresh.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Manual Cache Updates & Optimistic Rollbacks](09-manual-cache-updates-and-optimistic-rollbacks.md)

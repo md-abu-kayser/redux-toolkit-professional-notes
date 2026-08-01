@@ -1,21 +1,5 @@
-# Code generation with codegen openapi
+# Code Generation
 
-> Section: 05-rtk-query
+Generate RTK Query API slices from OpenAPI schemas using `@rtk-query/codegen-openapi`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Customizing Base URL & fetchBaseQuery](07-customizing-base-url-and-fetch-basequery.md)

@@ -1,21 +1,5 @@
-# Customizing base url and fetch basequery
+# Custom baseQuery
 
-> Section: 05-rtk-query
+Wrap `fetchBaseQuery` to add auth headers, handle errors, etc. Replace with custom function.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Authentication & Refreshing Tokens](08-authentication-and-refreshing-tokens.md)
