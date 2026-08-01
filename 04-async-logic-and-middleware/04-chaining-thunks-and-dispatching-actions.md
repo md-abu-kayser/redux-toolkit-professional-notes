@@ -1,21 +1,5 @@
-# Chaining thunks and dispatching actions
+# Chaining Thunks & Dispatching
 
-> Section: 04-async-logic-and-middleware
+Dispatch thunks from thunks or components. Use `unwrap()` to access result or catch errors.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Custom Middleware & Logging](05-custom-middleware-and-logging.md)

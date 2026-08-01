@@ -1,21 +1,5 @@
-# Using redux saga with rtk compatibility
+# Redux‑Saga & RTK
 
-> Section: 04-async-logic-and-middleware
+You can use sagas alongside RTK by adding `sagaMiddleware` and running sagas manually.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **05-rtk-query** – [What is RTK Query?](../05-rtk-query/01-what-is-rtk-query.md)

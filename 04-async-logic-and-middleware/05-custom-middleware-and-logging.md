@@ -1,21 +1,5 @@
-# Custom middleware and logging
+# Custom Middleware
 
-> Section: 04-async-logic-and-middleware
+Write middleware for logging, crash reporting, or async flow control. `store.getState`, `next`, `action`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Using Redux‑Saga with RTK Compatibility](06-using-redux-saga-with-rtk-compatibility.md)
