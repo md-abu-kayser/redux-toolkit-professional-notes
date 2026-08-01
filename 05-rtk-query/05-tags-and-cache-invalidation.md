@@ -1,21 +1,5 @@
-# Tags and cache invalidation
+# Tags & Cache Invalidation
 
-> Section: 05-rtk-query
+Define `providesTags` and `invalidatesTags` for automatic cache management after mutations.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Code Generation with codegen / OpenAPI](06-code-generation-with-codegen-openapi.md)

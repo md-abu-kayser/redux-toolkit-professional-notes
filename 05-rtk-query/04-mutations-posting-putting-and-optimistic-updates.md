@@ -1,21 +1,5 @@
-# Mutations posting putting and optimistic updates
+# Mutations & Optimistic Updates
 
-> Section: 05-rtk-query
+`useAddUserMutation()`. Trigger mutations, invalidate cache, or perform optimistic updates.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Tags & Cache Invalidation](05-tags-and-cache-invalidation.md)
