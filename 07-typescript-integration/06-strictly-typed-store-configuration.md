@@ -1,21 +1,5 @@
-# Strictly typed store configuration
+# Strictly Typed Store Configuration
 
-> Section: 07-typescript-integration
+Type the `reducer`, `middleware`, and `enhancers` for maximum safety.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **08-testing** – [Unit Testing Reducers & Slices](../08-testing/01-unit-testing-reducers-and-slices.md)

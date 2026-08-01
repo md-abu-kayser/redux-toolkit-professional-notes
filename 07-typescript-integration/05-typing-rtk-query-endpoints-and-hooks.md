@@ -1,21 +1,5 @@
-# Typing rtk query endpoints and hooks
+# Typing RTK Query
 
-> Section: 07-typescript-integration
+Generated hooks are fully typed from endpoint definitions. Use `builder.query<ResultType, QueryArg>()`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Strictly Typed Store Configuration](06-strictly-typed-store-configuration.md)
