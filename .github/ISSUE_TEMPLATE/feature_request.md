@@ -1,12 +1,11 @@
 ---
 name: Feature request
-about: Suggest a new topic or improvement for these notes
-title: "[REQUEST] "
-labels: enhancement
+about: Suggest an idea
+title: "[FEATURE] "
+assignees: ""
 ---
 
-**What topic or section would you like added/improved?**
-
-**Why is this useful?**
-
+**Is your feature request related to a problem?**
+**Describe the solution**
+**Alternatives considered**
 **Additional context**
