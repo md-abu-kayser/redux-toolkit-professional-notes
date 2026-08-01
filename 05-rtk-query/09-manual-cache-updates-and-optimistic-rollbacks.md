@@ -1,21 +1,5 @@
-# Manual cache updates and optimistic rollbacks
+# Manual Cache Updates
 
-> Section: 05-rtk-query
+`updateQueryData` to modify cached data without refetch. Perform optimistic updates and rollback on error.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Streaming Updates with WebSockets](10-streaming-updates-with-websockets.md)

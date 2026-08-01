@@ -1,21 +1,5 @@
-# Streaming updates with websockets
+# Streaming Updates with WebSockets
 
-> Section: 05-rtk-query
+Use `onCacheEntryAdded` to subscribe to WebSocket updates and patch the cache in real time.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **06-advanced-state-patterns** – [Normalizing State with createEntityAdapter](../06-advanced-state-patterns/01-normalizing-state-with-createentityadapter.md)
