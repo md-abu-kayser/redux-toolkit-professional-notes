@@ -1,21 +1,5 @@
-# Typing createslice and payloadaction
+# Typing createSlice & PayloadAction
 
-> Section: 07-typescript-integration
+Use `PayloadAction<T>` for strongly typed reducers. `createSlice` infers action types.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Typing createAsyncThunk with Generics](04-typing-createasyncthunk-with-generics.md)

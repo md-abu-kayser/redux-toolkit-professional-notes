@@ -1,21 +1,6 @@
-# Typed hooks useselector usedispatch
-
-> Section: 07-typescript-integration
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
+# Typed Hooks
 
 ```ts
-// TODO: add example code
+export const useAppDispatch = () => useDispatch<AppDispatch>();
+export const useAppSelector: TypedUseSelectorHook<RootState> = useSelector;
 ```
-
-## References
-
-- TODO: add links

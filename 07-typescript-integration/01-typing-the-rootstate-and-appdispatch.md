@@ -1,21 +1,6 @@
-# Typing the rootstate and appdispatch
-
-> Section: 07-typescript-integration
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
+# Typing RootState & AppDispatch
 
 ```ts
-// TODO: add example code
+export type RootState = ReturnType<typeof store.getState>;
+export type AppDispatch = typeof store.dispatch;
 ```
-
-## References
-
-- TODO: add links
