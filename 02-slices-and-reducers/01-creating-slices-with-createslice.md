@@ -1,21 +1,13 @@
-# Creating slices with createslice
+# createSlice
 
-> Section: 02-slices-and-reducers
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
+```js
+const counterSlice = createSlice({
+  name: "counter",
+  initialState: { value: 0 },
+  reducers: {
+    increment: (state) => {
+      state.value += 1;
+    },
+  },
+});
 ```
-
-## References
-
-- TODO: add links

@@ -1,21 +1,5 @@
-# Actions and action creators automatically
+# Actions & Action Creators
 
-> Section: 02-slices-and-reducers
+`createSlice` generates action creators (`increment()`) and action type strings automatically.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Mutable Updates with Immer](03-mutable-updates-with-immer.md)
