@@ -1,21 +1,5 @@
-# Createslice selectors
+# createSlice Selectors
 
-> Section: 03-selectors
+`createSlice` now accepts a `selectors` field to automatically generate memoized selectors.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **04-async-logic-and-middleware** – [Introduction to Thunks](../04-async-logic-and-middleware/01-introduction-to-thunks.md)
