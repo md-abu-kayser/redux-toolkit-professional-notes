@@ -1,21 +1,5 @@
-# What is redux toolkit
+# What is Redux Toolkit?
 
-> Section: 01-getting-started
+The official, opinionated, batteries‑included toolset for efficient Redux development. Includes `configureStore`, `createSlice`, `createAsyncThunk`, and RTK Query.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Why RTK over Classic Redux](02-why-rtk-over-classic-redux.md)
