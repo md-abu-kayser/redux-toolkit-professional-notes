@@ -1,21 +1,5 @@
-# Queries fetching and caching data
+# Queries: Fetching & Caching
 
-> Section: 05-rtk-query
+Use generated hooks: `useGetUsersQuery()`. Automatic caching, refetching, and deduplication.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Mutations – Posting, Putting, Optimistic Updates](04-mutations-posting-putting-and-optimistic-updates.md)
