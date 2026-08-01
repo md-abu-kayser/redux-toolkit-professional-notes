@@ -1,21 +1,5 @@
-# Hydrating state from server side rendering
+# SSR Hydration
 
-> Section: 06-advanced-state-patterns
+Preload state on server, serialize, pass to client, and hydrate store with `preloadedState`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **07-typescript-integration** – [Typing RootState & AppDispatch](../07-typescript-integration/01-typing-the-rootstate-and-appdispatch.md)
