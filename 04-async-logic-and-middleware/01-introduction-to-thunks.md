@@ -1,21 +1,5 @@
-# Introduction to thunks
+# Introduction to Thunks
 
-> Section: 04-async-logic-and-middleware
+A thunk is a function returned by an action creator to perform async logic and dispatch actions later.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Creating Thunks with createAsyncThunk](02-creating-thunks-with-createasyncthunk.md)

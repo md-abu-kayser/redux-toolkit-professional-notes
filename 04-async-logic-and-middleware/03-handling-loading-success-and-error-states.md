@@ -1,21 +1,5 @@
-# Handling loading success and error states
+# Handling Loading, Success & Error
 
-> Section: 04-async-logic-and-middleware
+React to action types in `extraReducers` (builder) or manually. Track `status` enum.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Chaining Thunks & Dispatching Actions](04-chaining-thunks-and-dispatching-actions.md)
