@@ -1,15 +1,16 @@
 ---
 name: Bug report
-about: Report an error or inconsistency in the notes
+about: Report a Redux Toolkit related issue
 title: "[BUG] "
 labels: bug
+assignees: ""
 ---
 
-**Describe the issue**
-A clear description of what's wrong (typo, broken example, outdated API, etc.)
+**Describe the bug**
+**To Reproduce**
+**Expected behavior**
+**Environment:**
 
-**Location**
-File/path where the issue occurs.
-
-**Suggested fix**
-If you have one, describe it here.
+- Redux Toolkit version:
+- React version:
+- TypeScript version (if applicable):
