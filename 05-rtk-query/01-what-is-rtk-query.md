@@ -1,21 +1,5 @@
-# What is rtk query
+# What is RTK Query?
 
-> Section: 05-rtk-query
+Data fetching and caching solution built on top of Redux Toolkit. Automates fetching, caching, and synchronization.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Creating an API Slice with createApi](02-creating-an-api-slice-with-createapi.md)

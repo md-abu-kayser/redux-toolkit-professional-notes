@@ -1,21 +1,14 @@
-# Creating an api slice with createapi
+# createApi
 
-> Section: 05-rtk-query
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
+```js
+const api = createApi({
+  reducerPath: "api",
+  baseQuery: fetchBaseQuery({ baseUrl: "/api" }),
+  endpoints: (builder) => ({
+    getUsers: builder.query({ query: () => "/users" }),
+    addUser: builder.mutation({
+      query: (user) => ({ url: "/users", method: "POST", body: user }),
+    }),
+  }),
+});
 ```
-
-## References
-
-- TODO: add links
