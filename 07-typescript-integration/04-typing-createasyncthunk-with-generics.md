@@ -1,21 +1,5 @@
-# Typing createasyncthunk with generics
+# Typing createAsyncThunk
 
-> Section: 07-typescript-integration
+`createAsyncThunk<Returned, Args, ThunkConfig>`. Infer types for `pending`, `fulfilled` actions.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Typing RTK Query Endpoints & Hooks](05-typing-rtk-query-endpoints-and-hooks.md)
