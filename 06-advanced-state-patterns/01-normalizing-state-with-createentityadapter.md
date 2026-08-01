@@ -1,21 +1,5 @@
-# Normalizing state with createentityadapter
+# createEntityAdapter
 
-> Section: 06-advanced-state-patterns
+Normalized data structure: `ids` array, `entities` map. Built‑in CRUD reducers and selectors.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Reusable Entity Adapters & Sort Comparators](02-reusable-entity-adapters-and-sort-comparators.md)

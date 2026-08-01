@@ -1,21 +1,5 @@
-# Combining slices and feature modules
+# Combining Slices
 
-> Section: 06-advanced-state-patterns
+Organize store by feature modules. `combineReducers` is automatic with `configureStore`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Dynamic Injection of Reducers](04-dynamic-injection-of-reducers.md)

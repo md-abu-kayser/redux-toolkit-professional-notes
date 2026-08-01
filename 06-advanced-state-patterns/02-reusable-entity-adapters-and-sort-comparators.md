@@ -1,21 +1,5 @@
-# Reusable entity adapters and sort comparators
+# Entity Adapter Patterns
 
-> Section: 06-advanced-state-patterns
+Custom sort comparators, multiple adapters per slice.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Combining Slices & Feature Modules](03-combining-slices-and-feature-modules.md)
