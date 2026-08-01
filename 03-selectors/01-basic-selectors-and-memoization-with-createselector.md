@@ -1,21 +1,9 @@
-# Basic selectors and memoization with createselector
+# Basic Selectors & createSelector
 
-> Section: 03-selectors
+`createSelector` from Reselect: memoized selectors that recompute only when inputs change.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
+```js
+const selectCompleted = createSelector([(state) => state.todos], (todos) =>
+  todos.filter((todo) => todo.completed),
+);
 ```
-
-## References
-
-- TODO: add links
