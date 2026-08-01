@@ -1,21 +1,9 @@
-# Why rtk over classic redux
+# Why RTK over Classic Redux
 
-> Section: 01-getting-started
+- Less boilerplate.
+- Built‑in immutability (Immer).
+- Async handling with `createAsyncThunk`.
+- RTK Query eliminates manual data fetching logic.
+- Excellent TypeScript support.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Installation & Project Setup](03-installation-and-project-setup.md)
