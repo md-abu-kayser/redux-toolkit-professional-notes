@@ -1,21 +1,5 @@
-# Non serializable data and custom serializability check
+# Non‑Serializable Data
 
-> Section: 06-advanced-state-patterns
+Redux warns about non‑serializable values. Use `serializableCheck` middleware customization.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Hydrating State from Server‑Side Rendering](06-hydrating-state-from-server-side-rendering.md)

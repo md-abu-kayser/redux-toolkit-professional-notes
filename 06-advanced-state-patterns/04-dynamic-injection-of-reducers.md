@@ -1,21 +1,5 @@
-# Dynamic injection of reducers
+# Dynamic Reducer Injection
 
-> Section: 06-advanced-state-patterns
+Use `store.replaceReducer` or code splitting to add reducers on‑the‑fly.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Non‑Serializable Data & Custom Serializability Check](05-non-serializable-data-and-custom-serializability-check.md)
