@@ -1,21 +1,5 @@
-# React basics and hooks
+# React Basics & Hooks
 
-> Section: 00-prerequisites
+Components, props, `useState`, `useEffect`, `useContext`. Redux Toolkit integrates with React via hooks.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [State Management Fundamentals](02-state-management-fundamentals.md)
