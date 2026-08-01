@@ -1,21 +1,5 @@
-# Installation and project setup
+# Installation & Project Setup
 
-> Section: 01-getting-started
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
+```bash
+npm install @reduxjs/toolkit react-redux
 ```
-
-## References
-
-- TODO: add links

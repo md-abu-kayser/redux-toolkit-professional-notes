@@ -1,21 +1,6 @@
-# Reading state with useselector and usedispatch
+# useSelector & useDispatch
 
-> Section: 01-getting-started
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
+```js
+const count = useSelector((state) => state.counter.value);
+const dispatch = useDispatch();
 ```
-
-## References
-
-- TODO: add links

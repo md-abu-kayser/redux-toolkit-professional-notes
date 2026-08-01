@@ -1,21 +1,10 @@
-# Configuring the store with configurestore
+# Configuring the Store
 
-> Section: 01-getting-started
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
+```js
+import { configureStore } from "@reduxjs/toolkit";
+const store = configureStore({
+  reducer: {
+    /* slices */
+  },
+});
 ```
-
-## References
-
-- TODO: add links

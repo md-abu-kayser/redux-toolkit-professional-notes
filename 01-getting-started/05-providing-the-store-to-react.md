@@ -1,21 +1,5 @@
-# Providing the store to react
+# Providing the Store
 
-> Section: 01-getting-started
+Wrap your app with `<Provider store={store}>` from `react-redux`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Reading State with useSelector & useDispatch](06-reading-state-with-useselector-and-usedispatch.md)
