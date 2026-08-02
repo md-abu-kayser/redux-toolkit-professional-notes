@@ -1,21 +1,5 @@
-# Cart slice and normalized products
+# Ecommerce Cart – Cart Slice & Normalized Products
 
-> Section: 12-real-world-projects
+`products` entity adapter, `cart` slice with items and quantities.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Persisting Cart with localStorage](02-persisting-cart-with-localstorage.md)

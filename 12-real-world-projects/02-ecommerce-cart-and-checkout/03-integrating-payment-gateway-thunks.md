@@ -1,21 +1,5 @@
-# Integrating payment gateway thunks
+# Payment Gateway Thunks
 
-> Section: 12-real-world-projects
+Create thunk to create Stripe payment intent, handle success/error, clear cart.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **Social Media Feed** – [Posts & Comments with Entity Adapter](../03-social-media-feed/01-posts-and-comments-with-entity-adapter.md)

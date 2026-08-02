@@ -1,21 +1,5 @@
-# Persisting cart with localstorage
+# Persisting Cart with localStorage
 
-> Section: 12-real-world-projects
+Subscribe to store changes and save cart slice to `localStorage`. Load on init.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Integrating Payment Gateway Thunks](03-integrating-payment-gateway-thunks.md)
