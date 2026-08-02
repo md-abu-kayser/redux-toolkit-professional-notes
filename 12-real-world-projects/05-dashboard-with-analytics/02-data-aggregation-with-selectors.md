@@ -1,21 +1,5 @@
-# Data aggregation with selectors
+# Data Aggregation with Selectors
 
-> Section: 12-real-world-projects
+Combine data from multiple slices/APIs to compute dashboard metrics.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **13-code-snippets** – [store-configuration.ts](../13-code-snippets/store-configuration.ts)

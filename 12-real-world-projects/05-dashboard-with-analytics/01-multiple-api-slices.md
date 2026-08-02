@@ -1,21 +1,5 @@
-# Multiple api slices
+# Dashboard – Multiple API Slices
 
-> Section: 12-real-world-projects
+Separate `usersApi`, `ordersApi`, `analyticsApi`. Combine in store.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Data Aggregation with Selectors](02-data-aggregation-with-selectors.md)
