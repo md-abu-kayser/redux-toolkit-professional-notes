@@ -1,21 +1,5 @@
-# Auth slice and thunk for login
+# Authentication Flow – Auth Slice & Thunk
 
-> Section: 12-real-world-projects
+`auth` slice with `user`, `token`, `status`. `loginThunk` to authenticate.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Token Refresh with RTK Query baseQuery](02-token-refresh-with-rtk-query-basequery.md)
