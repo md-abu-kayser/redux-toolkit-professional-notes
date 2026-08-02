@@ -1,21 +1,5 @@
-# Rtk query vs react query and when to use
+# RTK Query vs React Query
 
-> Section: 09-patterns-and-best-practices
+RTK Query is tightly integrated with Redux; prefer if you already use Redux. React Query is standalone and more feature‑rich.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **10-performance-optimization** – [Avoiding Rerenders with shallowEqual & memo](../10-performance-optimization/01-avoiding-rerenders-with-shallowequal-and-memo.md)

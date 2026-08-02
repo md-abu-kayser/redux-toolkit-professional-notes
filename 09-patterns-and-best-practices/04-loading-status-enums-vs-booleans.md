@@ -1,21 +1,5 @@
-# Loading status enums vs booleans
+# Loading Status
 
-> Section: 09-patterns-and-best-practices
+Use `'idle' | 'loading' | 'succeeded' | 'failed'` enum instead of multiple booleans.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [RTK Query vs React Query – When to Use](05-rtk-query-vs-react-query-and-when-to-use.md)
