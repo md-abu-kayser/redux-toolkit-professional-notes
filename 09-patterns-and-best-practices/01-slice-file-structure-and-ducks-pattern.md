@@ -1,21 +1,5 @@
-# Slice file structure and ducks pattern
+# Slice File Structure & Ducks
 
-> Section: 09-patterns-and-best-practices
+Group reducer, actions, thunks, selectors in a single feature file/module.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Selector Colocation & Reusability](02-selector-colocation-and-reusability.md)

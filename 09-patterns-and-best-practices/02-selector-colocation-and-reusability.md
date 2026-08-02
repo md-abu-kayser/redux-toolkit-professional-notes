@@ -1,21 +1,5 @@
-# Selector colocation and reusability
+# Selector Colocation
 
-> Section: 09-patterns-and-best-practices
+Keep selectors near the slice they read from. Reuse across components.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Error Handling Strategies in Thunks](03-error-handling-strategies-in-thunks.md)

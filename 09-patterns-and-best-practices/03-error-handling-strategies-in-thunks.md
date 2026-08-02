@@ -1,21 +1,5 @@
-# Error handling strategies in thunks
+# Error Handling in Thunks
 
-> Section: 09-patterns-and-best-practices
+Use `rejectWithValue` to return custom error payload, check in `extraReducers`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Loading Status – Enums vs Booleans](04-loading-status-enums-vs-booleans.md)
