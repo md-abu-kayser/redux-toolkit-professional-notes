@@ -1,21 +1,5 @@
-# Implementing crud with rtk query
+# CRUD with RTK Query
 
-> Section: 12-real-world-projects
+Define endpoints: `getTasks`, `addTask`, `updateTask`, `deleteTask`. Use hooks in components.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Optimistic Updates & Error Handling](03-optimistic-updates-and-error-handling.md)

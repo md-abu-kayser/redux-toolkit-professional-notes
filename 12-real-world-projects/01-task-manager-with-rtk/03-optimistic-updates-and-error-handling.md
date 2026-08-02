@@ -1,21 +1,5 @@
-# Optimistic updates and error handling
+# Optimistic Updates & Error Handling
 
-> Section: 12-real-world-projects
+Use `onQueryStarted` for optimistic updates, rollback on error.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Testing the Features](04-testing-the-features.md)

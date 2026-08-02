@@ -1,21 +1,5 @@
-# Testing the features
+# Testing
 
-> Section: 12-real-world-projects
+Unit test slices, integration test API with MSW, component tests with store.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **Ecommerce Cart & Checkout** – [Cart Slice & Normalized Products](../02-ecommerce-cart-and-checkout/01-cart-slice-and-normalized-products.md)

@@ -1,21 +1,5 @@
-# Store and slice design
+# Task Manager – Store & Slice Design
 
-> Section: 12-real-world-projects
+`tasks` slice with entity adapter. `filter` slice. API slice for fetching from server.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Implementing CRUD with RTK Query](02-implementing-crud-with-rtk-query.md)
