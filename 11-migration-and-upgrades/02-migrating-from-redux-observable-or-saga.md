@@ -1,21 +1,5 @@
-# Migrating from redux observable or saga
+# Migrating from Redux‑Observable / Saga
 
-> Section: 11-migration-and-upgrades
+Replace epics/sagas with thunks (or keep them if needed). RTK Query often eliminates the need.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [RTK Query Migration from Other Data Fetching](03-rtk-query-migration-from-other-data-fetching.md)

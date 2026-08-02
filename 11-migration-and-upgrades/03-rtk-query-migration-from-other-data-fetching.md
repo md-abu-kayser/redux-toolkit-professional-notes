@@ -1,21 +1,5 @@
-# Rtk query migration from other data fetching
+# RTK Query Migration
 
-> Section: 11-migration-and-upgrades
+Transition from manual thunks + local cache to RTK Query: define API slice, gradually replace.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **12-real-world-projects** – [Task Manager with RTK](../12-real-world-projects/01-task-manager-with-rtk/01-store-and-slice-design.md)
