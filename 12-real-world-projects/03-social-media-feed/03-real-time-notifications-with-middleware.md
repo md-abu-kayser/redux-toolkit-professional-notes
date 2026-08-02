@@ -1,21 +1,5 @@
-# Real time notifications with middleware
+# Real‑Time Notifications
 
-> Section: 12-real-world-projects
+Custom middleware to listen for WebSocket events and dispatch actions.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **Authentication Flow** – [Auth Slice & Thunk for Login](../04-authentication-flow/01-auth-slice-and-thunk-for-login.md)

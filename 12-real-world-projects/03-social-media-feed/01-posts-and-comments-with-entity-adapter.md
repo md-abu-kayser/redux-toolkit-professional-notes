@@ -1,21 +1,5 @@
-# Posts and comments with entity adapter
+# Social Media Feed – Posts & Comments with Entity Adapter
 
-> Section: 12-real-world-projects
+Use adapters for posts and comments. Normalize relationships.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Infinite Scrolling with RTK Query](02-infinite-scrolling-with-rtk-query.md)

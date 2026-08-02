@@ -1,21 +1,5 @@
-# Infinite scrolling with rtk query
+# Infinite Scrolling with RTK Query
 
-> Section: 12-real-world-projects
+Use `useGetPostsQuery` with cursor/offset. Merge pages in cache with `merge` option.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Real‑Time Notifications with Middleware](03-real-time-notifications-with-middleware.md)
