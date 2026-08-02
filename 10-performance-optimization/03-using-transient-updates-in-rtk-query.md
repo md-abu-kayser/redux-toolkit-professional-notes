@@ -1,21 +1,5 @@
-# Using transient updates in rtk query
+# Transient Updates
 
-> Section: 10-performance-optimization
+Use `refetchOnMountOrArgChange` to keep data fresh only when needed.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Profiling Redux Performance](04-profiling-redux-performance.md)

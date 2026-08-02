@@ -1,21 +1,5 @@
-# Splitting providers and context
+# Splitting Providers
 
-> Section: 10-performance-optimization
+Separate RTK Query API providers for different data domains to reduce subscription overhead.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Using Transient Updates in RTK Query](03-using-transient-updates-in-rtk-query.md)

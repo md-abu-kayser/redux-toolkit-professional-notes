@@ -1,21 +1,5 @@
-# Profiling redux performance
+# Profiling Redux Performance
 
-> Section: 10-performance-optimization
+Use Redux DevTools Profiler, React Profiler, and `why‑did‑you‑render`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **11-migration-and-upgrades** – [Migrating from Legacy Redux to RTK](../11-migration-and-upgrades/01-migrating-from-legacy-redux-to-rtk.md)
