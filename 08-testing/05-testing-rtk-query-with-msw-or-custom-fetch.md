@@ -1,21 +1,5 @@
-# Testing rtk query with msw or custom fetch
+# Testing RTK Query
 
-> Section: 08-testing
+Mock service worker (MSW) to intercept API calls, or provide a custom `baseQuery` that returns mock data.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **09-patterns-and-best-practices** – [Slice File Structure & Ducks Pattern](../09-patterns-and-best-practices/01-slice-file-structure-and-ducks-pattern.md)

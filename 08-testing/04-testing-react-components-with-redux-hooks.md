@@ -1,21 +1,5 @@
-# Testing react components with redux hooks
+# Testing Components
 
-> Section: 08-testing
+Use `@testing-library/react` and `wrapWithProvider` helper for rendering connected components.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Testing RTK Query with MSW or Custom Fetch](05-testing-rtk-query-with-msw-or-custom-fetch.md)
