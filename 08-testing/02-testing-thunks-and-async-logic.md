@@ -1,21 +1,5 @@
-# Testing thunks and async logic
+# Testing Thunks
 
-> Section: 08-testing
+Use `redux-mock-store` or a real configured store. Mock API calls, dispatch thunk, check actions.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Integration Testing with a Real Store](03-integration-testing-with-a-real-store.md)

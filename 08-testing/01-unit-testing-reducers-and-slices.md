@@ -1,21 +1,5 @@
-# Unit testing reducers and slices
+# Unit Testing Reducers & Slices
 
-> Section: 08-testing
+Test reducer pure functions: call reducer with state and action, assert new state.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Testing Thunks & Async Logic](02-testing-thunks-and-async-logic.md)
