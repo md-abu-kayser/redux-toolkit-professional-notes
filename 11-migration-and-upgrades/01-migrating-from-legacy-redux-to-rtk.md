@@ -1,21 +1,5 @@
-# Migrating from legacy redux to rtk
+# Migrating from Legacy Redux to RTK
 
-> Section: 11-migration-and-upgrades
+Replace `createStore` with `configureStore`, switch to `createSlice`, adopt `createAsyncThunk`.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Migrating from Redux‑Observable or Saga](02-migrating-from-redux-observable-or-saga.md)
