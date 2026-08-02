@@ -1,21 +1,5 @@
-# Integration testing with a real store
+# Integration Testing
 
-> Section: 08-testing
+Render components with `<Provider store={realStore}>` and test complete flows.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Testing React Components with Redux Hooks](04-testing-react-components-with-redux-hooks.md)
