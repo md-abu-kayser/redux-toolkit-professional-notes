@@ -1,21 +1,5 @@
-# Books and courses
+# Books & Courses
 
-> Section: 14-resources-cheatsheets
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+- _Redux Toolkit Official Documentation_
+- _Learn Modern Redux_ (egghead.io, Mark Erikson)
+- _The Joy of React_ (optional, state management sections)

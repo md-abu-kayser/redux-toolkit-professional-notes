@@ -1,21 +1,6 @@
-# Blogs newsletters communities
+# Blogs, Newsletters & Communities
 
-> Section: 14-resources-cheatsheets
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+- Redux Toolkit Blog
+- Mark Erikson's blog
+- Reactiflux Discord (redux channel)
+- r/redux

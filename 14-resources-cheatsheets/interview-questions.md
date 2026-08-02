@@ -1,21 +1,6 @@
-# Interview questions
+# Redux Toolkit Interview Questions
 
-> Section: 14-resources-cheatsheets
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+- What problems does RTK solve over classic Redux?
+- Explain `createAsyncThunk` lifecycle.
+- How does RTK Query cache invalidation work?
+- Difference between `createSelector` and inline selectors.

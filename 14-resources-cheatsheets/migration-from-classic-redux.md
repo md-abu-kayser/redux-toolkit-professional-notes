@@ -1,21 +1,3 @@
-# Migration from classic redux
+# Migration from Classic Redux
 
-> Section: 14-resources-cheatsheets
-
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+Step‑by‑step guide to replace `createStore`, `connect`, manual actions/reducers with RTK.
