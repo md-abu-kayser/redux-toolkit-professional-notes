@@ -1,21 +1,5 @@
-# Protected routes and session management
+# Protected Routes & Session Management
 
-> Section: 12-real-world-projects
+Use `useSelector` to check auth, redirect if not logged in. Persist token.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: **Dashboard with Analytics** – [Multiple API Slices](../05-dashboard-with-analytics/01-multiple-api-slices.md)

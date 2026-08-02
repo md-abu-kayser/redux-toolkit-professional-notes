@@ -1,21 +1,5 @@
-# Token refresh with rtk query basequery
+# Token Refresh with baseQuery
 
-> Section: 12-real-world-projects
+Wrap `fetchBaseQuery` to intercept 401, refresh token, retry original request.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Protected Routes & Session Management](03-protected-routes-and-session-management.md)
