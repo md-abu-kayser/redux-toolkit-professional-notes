@@ -1,21 +1,5 @@
-# Avoiding rerenders with shallowequal and memo
+# Avoiding Rerenders
 
-> Section: 10-performance-optimization
+`useSelector` with `shallowEqual`. Wrap components with `React.memo` to prevent unnecessary renders.
 
-## Overview
-
-_Notes for this topic go here._
-
-## Key Points
-
-- TODO
-
-## Example
-
-```ts
-// TODO: add example code
-```
-
-## References
-
-- TODO: add links
+> 📘 Next: [Splitting Providers & Context](02-splitting-providers-and-context.md)
