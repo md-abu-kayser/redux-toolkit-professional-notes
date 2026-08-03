@@ -1,0 +1,27 @@
+{
+  "name": "redux-toolkit-professional-notes",
+  "version": "1.0.0",
+  "description": "A structured, topic-by-topic set of notes for learning and mastering **Redux Toolkit (RTK)** and **RTK Query**, from fundamentals to production patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-abu-kayser/redux-toolkit-professional-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/md-abu-kayser/redux-toolkit-professional-notes/issues"
+  },
+  "homepage": "https://github.com/md-abu-kayser/redux-toolkit-professional-notes#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.12.0",
+    "react-redux": "^9.3.0"
+  }
+}
